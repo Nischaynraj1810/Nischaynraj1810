@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nischay
-- 👀 I’m interested in FreeLancing
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m computer science student
 - 📫 How to reach me in linkedin @Nischay_N_Raj
 
 <!---
